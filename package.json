@@ -1,0 +1,57 @@
+{
+  "name": "automatedchangelog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release":"release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulmodiphilips/automatedchangelog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulmodiphilips/automatedchangelog/issues"
+  },
+  "homepage": "https://github.com/rahulmodiphilips/automatedchangelog#readme",
+  "dependencies": {
+    "@commitlint/cli": "^17.4.3",
+    "@commitlint/config-conventional": "^17.4.3",
+    "@release-it/conventional-changelog": "^5.1.1",
+    "husky": "^8.0.3",
+    "release-it": "^15.6.0"
+  },
+  "release-it": {
+    "git": {
+      "commitMessage": "chore: release v${version}"
+    },
+    "github": {
+      "release": true
+    },
+    "npm": {
+      "publish": false
+    },
+    "plugins": {
+      "@release-it/conventional-changelog": {
+        "infile": "CHANGELOG.md",
+        "preset": {
+          "name": "conventionalcommits",
+          "types": [
+            {
+              "type": "feat",
+              "section": "Features"
+            },
+            {
+              "type": "fix",
+              "section": "Bug Fixes"
+            },
+            {}
+          ]
+        }
+      }
+    }
+  }
+}
