@@ -1,5 +1,12 @@
 
 
+## [1.2.2](https://github.com/rahulmodiphilips/automatedchangelog/compare/1.2.1...1.2.2) (2023-02-16)
+
+
+### Bug Fixes
+
+* added new module to base repo ([13d4946](https://github.com/rahulmodiphilips/automatedchangelog/commit/13d49465c6bc559edf38f8ce34fa8cb47124e4f8))
+
 ## [1.2.1](https://github.com/rahulmodiphilips/automatedchangelog/compare/1.2.0...1.2.1) (2023-02-15)
 
 ## [1.2.0](https://github.com/rahulmodiphilips/automatedchangelog/compare/1.1.0...1.2.0) (2023-02-15)
