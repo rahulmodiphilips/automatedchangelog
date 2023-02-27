@@ -1,5 +1,12 @@
 
 
+## [1.3.0](https://github.com/rahulmodiphilips/automatedchangelog/compare/1.2.2...1.3.0) (2023-02-27)
+
+
+### Features
+
+* new module index3 added ([5f770ad](https://github.com/rahulmodiphilips/automatedchangelog/commit/5f770ad9e53efe7c6ed810957875f3dd69bee659))
+
 ## [1.2.2](https://github.com/rahulmodiphilips/automatedchangelog/compare/1.2.1...1.2.2) (2023-02-16)
 
 
