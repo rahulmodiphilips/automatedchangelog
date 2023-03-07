@@ -1,5 +1,12 @@
 
 
+## [1.6.0](https://github.com/rahulmodiphilips/automatedchangelog/compare/1.5.0...1.6.0) (2023-03-07)
+
+
+### Features
+
+* added a new module ([bf136ae](https://github.com/rahulmodiphilips/automatedchangelog/commit/bf136aecb1f4db11a22eb54928ac364bf129507d))
+
 ## [1.5.0](https://github.com/rahulmodiphilips/automatedchangelog/compare/1.4.1...1.5.0) (2023-03-07)
 
 
