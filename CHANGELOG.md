@@ -1,5 +1,7 @@
 
 
+## [1.4.1](https://github.com/rahulmodiphilips/automatedchangelog/compare/1.4.0...1.4.1) (2023-03-07)
+
 ## [1.4.0](https://github.com/rahulmodiphilips/automatedchangelog/compare/1.3.0...1.4.0) (2023-02-28)
 
 
