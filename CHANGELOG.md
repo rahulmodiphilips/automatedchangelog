@@ -1,5 +1,12 @@
 
 
+## [1.5.0](https://github.com/rahulmodiphilips/automatedchangelog/compare/1.4.1...1.5.0) (2023-03-07)
+
+
+### Features
+
+* module 5 added ([69c7419](https://github.com/rahulmodiphilips/automatedchangelog/commit/69c74199799054bf27bf8a87926668c7170f22bb))
+
 ## [1.4.1](https://github.com/rahulmodiphilips/automatedchangelog/compare/1.4.0...1.4.1) (2023-03-07)
 
 ## [1.4.0](https://github.com/rahulmodiphilips/automatedchangelog/compare/1.3.0...1.4.0) (2023-02-28)
