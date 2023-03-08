@@ -1,5 +1,12 @@
 
 
+## [1.6.1](https://github.com/rahulmodiphilips/automatedchangelog/compare/1.6.0...1.6.1) (2023-03-08)
+
+
+### Bug Fixes
+
+* new module added ([7cc2fa9](https://github.com/rahulmodiphilips/automatedchangelog/commit/7cc2fa9a50c98cecde584d95ef8bfe4b54f44238))
+
 ## [1.6.0](https://github.com/rahulmodiphilips/automatedchangelog/compare/1.5.0...1.6.0) (2023-03-07)
 
 
