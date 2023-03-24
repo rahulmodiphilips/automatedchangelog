@@ -8,6 +8,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub issues](https://img.shields.io/github/issues/{USERNAME}/{PROJECT_NAME}.svg)](https://github.com/{USERNAME}/{PROJECT_NAME}/issues)
 [![GitHub stars](https://img.shields.io/github/stars/{USERNAME}/{PROJECT_NAME}.svg)](https://github.com/{USERNAME}/{PROJECT_NAME}/stargazers)
+[![All Contributors](https://img.shields.io/github/all-contributors/projectOwner/projectName?color=ee8449&style=flat-square)](#contributors)
 
 ## Description
 
