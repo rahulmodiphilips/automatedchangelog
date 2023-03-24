@@ -1,6 +1,6 @@
 # Project Name
 
-[![Name](<img src="https://img.shields.io/static/v1?label=Filamet&message=official&color=blueviolet">)](https://opensource.org/licenses/MIT)
+[![Filamet Official](https://img.shields.io/static/v1?label=Filamet&message=official&color=blueviolet)](https://opensource.org/licenses/MIT)
 [![Build Status](https://travis-ci.com/{USERNAME}/{PROJECT_NAME}.svg?branch=main)](https://travis-ci.com/{USERNAME}/{PROJECT_NAME})
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub issues](https://img.shields.io/github/issues/{USERNAME}/{PROJECT_NAME}.svg)](https://github.com/{USERNAME}/{PROJECT_NAME}/issues)
