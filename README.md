@@ -1,6 +1,8 @@
 # Project Name
 
 [![Filamet Official](https://img.shields.io/static/v1?label=Filamet&message=official&color=blueviolet)](https://opensource.org/licenses/MIT)
+[![GitHub release](https://img.shields.io/github/release/{rahulmodiphilips}/{automatedchangelog}.svg)](https://github.com/{rahulmodiphilips}/{automatedchangelog}/releases/)
+
 [![Release](https://img.shields.io/github/v/tag/expressjs/express)](https://opensource.org/licenses/MIT)
 [![Build Status](https://travis-ci.com/{USERNAME}/{PROJECT_NAME}.svg?branch=main)](https://travis-ci.com/{USERNAME}/{PROJECT_NAME})
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
