@@ -1,5 +1,12 @@
 
 
+## [1.6.5](https://github.com/rahulmodiphilips/automatedchangelog/compare/1.6.4...1.6.5) (2023-03-24)
+
+
+### Bug Fixes
+
+* github token add ([e90e7ed](https://github.com/rahulmodiphilips/automatedchangelog/commit/e90e7ed7fe8a1e9f90f639e695addee750ae1b09))
+
 ## [1.6.4](https://github.com/rahulmodiphilips/automatedchangelog/compare/1.6.3...1.6.4) (2023-03-24)
 
 ## [1.6.3](https://github.com/rahulmodiphilips/automatedchangelog/compare/1.6.2...1.6.3) (2023-03-24)
