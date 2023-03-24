@@ -1,5 +1,12 @@
 
 
+## [1.6.3](https://github.com/rahulmodiphilips/automatedchangelog/compare/1.6.2...1.6.3) (2023-03-24)
+
+
+### Bug Fixes
+
+* filament badge add ([6e75f0c](https://github.com/rahulmodiphilips/automatedchangelog/commit/6e75f0ce3beddb3e3cf37c64134b67e497e72eaf))
+
 ## [1.6.2](https://github.com/rahulmodiphilips/automatedchangelog/compare/1.6.1...1.6.2) (2023-03-24)
 
 ## [1.6.1](https://github.com/rahulmodiphilips/automatedchangelog/compare/1.6.0...1.6.1) (2023-03-08)
