@@ -3,12 +3,7 @@
 [![Filamet Official](https://img.shields.io/static/v1?label=Filamet&message=official&color=blueviolet)](https://opensource.org/licenses/MIT)
 [![GitHub release](https://img.shields.io/github/release/rahulmodiphilips/automatedchangelog.svg?token=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)](https://github.com/rahulmodiphilips/automatedchangelog/releases/)
 
-[![Release](https://img.shields.io/github/v/tag/expressjs/express)](https://opensource.org/licenses/MIT)
-[![Build Status](https://travis-ci.com/{USERNAME}/{PROJECT_NAME}.svg?branch=main)](https://travis-ci.com/{USERNAME}/{PROJECT_NAME})
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub issues](https://img.shields.io/github/issues/{USERNAME}/{PROJECT_NAME}.svg)](https://github.com/{USERNAME}/{PROJECT_NAME}/issues)
-[![GitHub stars](https://img.shields.io/github/stars/{USERNAME}/{PROJECT_NAME}.svg)](https://github.com/{USERNAME}/{PROJECT_NAME}/stargazers)
-[![All Contributors](https://img.shields.io/github/all-contributors/projectOwner/projectName?color=ee8449&style=flat-square)](#contributors)
+
 
 ## Description
 
