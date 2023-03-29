@@ -2,7 +2,7 @@
 
 [![Filamet Official](https://img.shields.io/static/v1?label=Filamet&message=official&color=blueviolet)](https://opensource.org/licenses/MIT)
 [![GitHub release](https://img.shields.io/github/release/rahulmodiphilips/automatedchangelog.svg)](https://github.com/rahulmodiphilips/automatedchangelog/releases/)
-[![GitHub Contributors](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/rahulmodiphilips/automatedchangelog/contributors?per_page=100&anon=true&label=Contributors&query=<$[0].contributions>&color=blueviolet&prefix=Prefix&suffix=Sufix)](https://github.com/rahulmodiphilips/automatedchangelog/releases/)
+[![GitHub Contributors](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/rahulmodiphilips/automatedchangelog/main/raw.json&label=Contributors&query=<$[0].contributions>&color=blueviolet&prefix=Prefix&suffix=Sufix)](https://github.com/rahulmodiphilips/automatedchangelog/releases/)
 
 
 
