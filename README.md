@@ -6,6 +6,7 @@
 [![GitHub Mark](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/rahulmodiphilips/automatedchangelog/main/raw.json&label=Mark&query=$['mark']&color=blue&prefix=v)](https://github.com/rahulmodiphilips/automatedchangelog/releases/)
 [![GitHub Token](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/rahulmodiphilips/automatedchangelog/main/raw.json&label=tokens&query=$['tokens']&color=blue&prefix=v)](https://github.com/rahulmodiphilips/automatedchangelog/releases/)
 [![GitHub Issues](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/rahulmodiphilips/automatedchangelog/main/raw.json&label=Issues&query=$['issues']&color=yellow&sufix=open)](https://github.com/rahulmodiphilips/automatedchangelog/releases/)
+[![GitHub Dependencies](https://img.shields.io/depfu/dependencies/github/rahulmodiphilips/automatedchangelog)](https://github.com/rahulmodiphilips/automatedchangelog/releases/)
 
 
 ## Description
